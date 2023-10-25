@@ -15,7 +15,8 @@ module.exports = {
       'kuning' : '#FCC43E',
       'background-color' : '#F3F4FF',
       'merah' : '#C70039',
-      'hijau' : '#186F65'
+      'hijau' : '#186F65',
+      'hijau-1' : '#4CAF4F'
     }
   },
   // plugins: [require("daisyui")],
